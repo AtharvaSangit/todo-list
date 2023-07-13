@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+nav a.active{@apply text-blue-600 border-blue-600
+   }
+@tailwind utilities;
